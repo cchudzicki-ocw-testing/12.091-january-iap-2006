@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Each student is expected to write a report on a selected element after
+  doing a literature survey, and also give presentation. Also include three sample
+  student presentations and reports.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
